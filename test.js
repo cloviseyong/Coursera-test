@@ -13,27 +13,27 @@
 
 
 
-let x;
-x = 6;
-document.getElementById("demo").innerHTML = x;
+// let x;
+// x = 6;
+// document.getElementById("demo").innerHTML = x;
 
-function myFunction(){
-  document.getElementById("demo").style.color="red";
-}
+// function myFunction(){
+//   document.getElementById("demo").style.color="red";
+// }
 
-function myFunction1(){
-  document.getElementById("demo1").innerHTML="hello thanks for coming";
-}
+// function myFunction1(){
+//   document.getElementById("demo1").innerHTML="hello thanks for coming";
+// }
 
 
-function myFunction2(){
-  document.getElementById("demo3").style.fontSize ="35px";
-}
+// function myFunction2(){
+//   document.getElementById("demo3").style.fontSize ="35px";
+// }
 
-function myFunction3(){
-  document.getElementById("demo4").innerHTML="I love you Kim";
+// function myFunction3(){
+//   document.getElementById("demo4").innerHTML="I love you Kim";
 
-}
+// }
 
 // function myFunction4(){
 //   let carName = "Volvo";
@@ -80,12 +80,8 @@ function myFunction3(){
 
 // }
 
-function myFunction(p1, p2) {
-  return p1 * p2;
-}
 
-let result = myFunction(4, 3);
-document.getElementById("demo").innerHTML = result;
+
 
 
 
